@@ -36,7 +36,7 @@ Today, I want to share you 1 tool to help you find your passion. However, I thin
 
   <div class="outline-text-2" id="text-2">
     <p>
-      Templates are good because it&#8217;s immediately actionable. One of my favorite is the <a href="http://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.mountaingoatsoftware.com']);">user story template</a> (&#8220;As a <type of user>, I want <some goal> so that <some reason>&#8221;). Filling this out gives me a great first momentum of starting user-centered service designing.
+      Templates are good because it&#8217;s immediately actionable. One of my favorite is the <a href="http://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.mountaingoatsoftware.com']);">user story template</a> (&#8220;As a &lt;type of user&gt;, I want &lt;some goal&gt; so that &lt;some reason&gt;&#8221;). Filling this out gives me a great first momentum of starting user-centered service designing.
     </p>
 
     <p>
